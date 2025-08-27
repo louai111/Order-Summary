@@ -10,12 +10,6 @@
 
 ## Overview
 
-### The challenge
-
-Users should be able to:
-
-- See hover states for interactive elements
-
 ### Screenshot
 
 ![](./screenshot.png)
@@ -23,8 +17,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/order-summary-component-UTmLHpiVjR)
-- Live Site URL: [Add live site URL here](https://louai111.github.io/Order-Summary/)
+- [Solution URL](https://www.frontendmentor.io/solutions/order-summary-component-UTmLHpiVjR)
+- [Live Site URL](https://louai111.github.io/Order-Summary/)
 
 ## My process
 
