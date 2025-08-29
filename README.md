@@ -2,7 +2,7 @@
 
 - [Overview](#overview)
   - [Screenshot](#screenshot)
-  - [Links](#links)
+  - [Live Site](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
 
